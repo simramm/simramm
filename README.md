@@ -1,3 +1,3 @@
  👋 Hi, I’m Simon
 
-Mostly doing advent of code here
+Mostly doing projecteuler & advent of code here
