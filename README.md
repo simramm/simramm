@@ -2,4 +2,4 @@
 
 Mostly doing projecteuler & advent of code here
 
-Looking for a job at the conjunction of tech and financial services ? --> reach out :)
+Are you looking for a job at the conjunction of tech and financial services ? --> reach out :)
